@@ -1,14 +1,9 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/reposi3</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>I want this depiction template</name>
-			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<name>Join the iOS Jailbreak Discord Server</name>
+			<url>https://discord.gg/5m4qMyg</url>
+			<iconclass>glyphicon glyphicon-chat-conversation</iconclass>
 		</link>
 	</footerlinks>
 </repo>
