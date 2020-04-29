@@ -1,0 +1,38 @@
+<package>
+	<id>com.tigisoftware.filza64bit</id>
+	<name>Filza (64-bit)</name>
+	<version>3.7.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Manage files like a pro.</shortDescription>
+	<descriptionlist>
+		<description>Manage files like you've never before on iOS.</description>
+    <description>All-in-one preinstalled software to let you open any file. Including DEBs.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Filza open to the Documents folder</description>
+			<image>shot1.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description>Filza with many tabs open.</description>
+			<image>shot2.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Only release on this repo</change>
+	</changelog>
+	<links>
+		<link>
+			<name>visit google in cydia because why not</name>
+			<url>hhttps://google.com</url>
+			<iconclass>fa fa-browser</iconclass>
+		</link>
+	</links>
+</package>
