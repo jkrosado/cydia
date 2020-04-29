@@ -6,7 +6,7 @@ Depends: firmware (>9.3), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.castyte.eggcrypt_2.0.1_iphoneos-arm.deb
 Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+MD5sum: cad8a64c446aec50aa7e77501777eed8
 Description: Encrypt your Discord messages
 Name: Eggcrypt
 Author: Castyte <unknown@email.com>
