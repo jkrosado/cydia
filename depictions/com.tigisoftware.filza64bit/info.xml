@@ -18,11 +18,11 @@
 	<screenshots>
 		<screenshot>
 			<description>Filza open to the Documents folder</description>
-			<image>shot1.PNG</image>
+			<image>filza1.PNG</image>
 		</screenshot>		
 		<screenshot>
 			<description>Filza with many tabs open.</description>
-			<image>shot2.PNG</image>
+			<image>filza2.PNG</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
@@ -31,7 +31,7 @@
 	<links>
 		<link>
 			<name>visit google in cydia because why not</name>
-			<url>hhttps://google.com</url>
+			<url>https://google.com</url>
 			<iconclass>fa fa-browser</iconclass>
 		</link>
 	</links>
