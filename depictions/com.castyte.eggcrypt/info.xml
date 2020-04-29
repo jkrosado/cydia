@@ -13,7 +13,7 @@
 	<shortDescription>Egg grade encryption</shortDescription>
 	<descriptionlist>
 		<description>Castyte's Eggcrypt is now on a repo!</description>
-		<description>Encrypt your Discord messages.</description>
+		<description>Press and hold Send to open the encryption menu!</description>
 		<description><![CDATA[
 		With the mighty<br/> 
 		egg
@@ -22,12 +22,12 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Press and hold send to open the menu</description>
+			<image>shot1.PNG</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Orange text is public default</description>
+			<image>shot2.PNG</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
