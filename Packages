@@ -5,7 +5,7 @@ Maintainer: «John» <arandom@email.com>
 Depends: firmware (>9.3), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.castyte.eggcrypt_2.0.1_iphoneos-arm.deb
-Size: 854
+Size: 30624
 MD5sum: cad8a64c446aec50aa7e77501777eed8
 Description: Encrypt your Discord messages
 Name: Eggcrypt
@@ -19,7 +19,7 @@ Maintaner: «John» <arandom@email.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tigisoftware.filza64bit_3.7.1-10_iphoneos-arm.deb
-Size: 854
+Size: 8219094
 MD5sum: 0d6e23ec5c7e6cd1795c689463a5d03b
 Description: All-in-one file manager for iOS 7+
 Name: Filza (64-bit)
