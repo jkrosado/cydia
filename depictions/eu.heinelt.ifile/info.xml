@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>3.0</miniOS>
-      <maxiOS>9.3.5</maxiOS>
+                        <maxiOS>9.3.5</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -18,12 +18,12 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Filza open to the Documents folder</description>
-			<image>filza1.PNG</image>
+			<description>iFile selecting documents</description>
+			<image>ifile3.PNG</image>
 		</screenshot>		
 		<screenshot>
-			<description>Filza with many tabs open.</description>
-			<image>filza2.PNG</image>
+			<description>iFile editing a strings file.</description>
+			<image>ifile9.PNG</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
